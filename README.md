@@ -1,2 +1,3 @@
-# codewars-lisp
-Lisp stuff I made for codewars 
+# Codewars lisp
+**Common Lisp stuff I made for codewars.**
+
